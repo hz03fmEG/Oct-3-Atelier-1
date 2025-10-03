@@ -68,7 +68,7 @@ function draw()
         pop();
         
         // Display rotation and speed information
-        // fill(50);
+         fill(50);
         // textSize(24);
         // text("Device Tilt (X): " + nf(rotationX, 1, 1) + "°", width/2, height/6);
         // text("Playback Speed: " + nf(playbackSpeed, 1, 2) + "x", width/2, height/6 + 40);
